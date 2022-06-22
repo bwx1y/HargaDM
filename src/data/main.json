@@ -1,0 +1,83 @@
+{
+  "MobileLegend": [
+    {
+      "Diamond": 59,
+      "Harga": "20 K"
+    },
+    {
+      "Diamond": 141,
+      "Harga": "37 K"
+    },
+    {
+      "Diamond": 282,
+      "Harga": "72 K"
+    },
+    {
+      "Diamond": 366,
+      "Harga": "90 K"
+    },
+    {
+      "Diamond": 408,
+      "Harga": "105 K"
+    },
+    {
+      "Diamond": 568,
+      "Harga": "140 K"
+    },
+    {
+      "Diamond": 758,
+      "Harga": "176 K"
+    },
+    {
+      "Diamond": 875,
+      "Harga": "200 K"
+    }
+  ],
+  "FreeFire": [
+    {
+      "Diamond": 5,
+      "Harga": "2 K"
+    },
+    {
+      "Diamond": 20,
+      "Harga": "5 K"
+    },
+    {
+      "Diamond": 50,
+      "Harga": "8 K"
+    },
+    {
+      "Diamond": 70,
+      "Harga": "10 K"
+    },
+    {
+      "Diamond": 140,
+      "Harga": "20 K"
+    },
+    {
+      "Diamond": 355,
+      "Harga": "50 K"
+    },
+    {
+      "Diamond": 720,
+      "Harga": "100 K"
+    }
+  ],
+  "Member": [
+    {
+      "Data":"Mobile Legend",
+      "Member": "Starlight member",
+      "Harga": "135 K"
+    },
+    {
+      "Data":"Free Fire",
+      "Member": "Member ship mingguan",
+      "Harga": "32 K"
+    },
+    {
+      "Data" : "Free Fire",
+      "Member": "Member ship bulanan",
+      "Harga": "120 K"
+    }
+  ]
+}

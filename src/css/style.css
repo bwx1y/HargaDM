@@ -1,0 +1,11 @@
+img {
+    width: 30rem;
+    height: auto;
+}
+
+i {
+    font-size: 4rem;
+}
+i:hover {
+    color: blue;
+}
