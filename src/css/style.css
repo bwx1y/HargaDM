@@ -7,5 +7,6 @@ i {
     font-size: 4rem;
 }
 i:hover {
+    cursor: pointer;
     color: blue;
 }
